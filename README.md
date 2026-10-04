@@ -34,7 +34,7 @@ El login y las cuatro operaciones CRUD funcionan en el entorno local. La demostr
 - **Autenticación:** iniciar y cerrar sesión.
 - **Acceso protegido:** solicitar el login al abrir una URL del inventario sin sesión.
 
-**Video de demostración:** pendiente de agregar el enlace de Loom o YouTube. Duración máxima: 3 minutos.
+**Video de demostración:** [Ver en YouTube](https://youtu.be/cepbhVJGWic) (2 min 55 s).
 
 ## Acceso e instalación
 
